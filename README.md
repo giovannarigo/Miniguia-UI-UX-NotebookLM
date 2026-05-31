@@ -33,11 +33,14 @@ As fontes selecionadas abordam:
 Prompt: Quais são as principais tendências de design de produto para 2026?
 Resposta: As tendências de UI/UX em 2026 apontam para um afastamento da uniformidade gerada por IA, priorizando intencionalidade humana, hiperpersonalização e sustentabilidade. O design deixa de ser apenas estético e passa a responder estrategicamente às novas tecnologias e comportamentos dos usuários.
 Cicatriz: Nada a apontar, achei a resposta satisfatória.
-
+```
+```text
 Prompt: Quais ferramentas de design facilitam a criação dessas novas tendências?
 Resposta: As ferramentas evoluíram para integrar IA generativa, fluxos de trabalho baseados em código e suporte a interfaces multimodais, facilitando a implementação das novas tendências de UI/UX. AS ferramentas citadas foram: UX pilot, Figma AI, Banani, Penpot, ProtoPie, Framer, VoiceFlow, UXPin, JigSpace, Miro, etc.
-Cicatriz: Após uma pesquisa sobre cada uma das ferramentas, fiz mais prompts para cada uma delas individualmente para ter um entendimento inicial sobre suas funcionalidades e selecionar quais se encaixam mais no que eu estava buscando.
-
+Cicatriz: Após uma pesquisa sobre cada uma das ferramentas, fiz mais prompts para cada uma delas individualmente para ter um entendimento inicial sobre suas funcionalidades e selecionar quais se encaixavam mais no que eu estava buscando.
+```
+```text
 Prompt: Dicas de rotina de estudos para começar em UI UX design.
 Resposta: Para começar uma rotina de estudos em UI/UX Design com foco no mercado atual e futuro (2026), é essencial equilibrar o domínio de ferramentas técnicas com a compreensão profunda da psicologia do usuário e visão de negócio. Prática diária, fundamentos teóricos, pesquisa e mapeamento, testes e iteração, visão de negócios e aprender sobre uso de IA Generativa e Machine Experience.
 Cicatriz: Como a resposta foram tópicos resumidos, após fazer anotações sobre cada ponto, fiz prompts pedindo para que ele se aprofundasse mais em cada tópico individualmente, aprimorando significativamente a resposta para cada um deles.
+```
