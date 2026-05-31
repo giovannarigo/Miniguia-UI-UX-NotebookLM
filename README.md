@@ -1,6 +1,6 @@
 # 🎨 Projeto Temático: UI & UX
 
-> Um estudo sobre design de interfaces e experiências digitais, explorando fundamentos teóricos, práticas de mercado e aplicações em ferramentas como Figma.
+> Este projeto foi concebido e estudado no NotebookLM, utilizando a plataforma como espaço de curadoria de fontes, experimentação de prompts e consolidação de aprendizados. Trata-se de um estudo aprofundado sobre design de interfaces e experiências digitais, que combina fundamentos teóricos, práticas de mercado e aplicações em ferramentas contemporâneas como o Figma.
 
 ---
 
